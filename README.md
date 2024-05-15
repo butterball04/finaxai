@@ -1,1 +1,1 @@
-#FinaxAI
+# Finax AI
