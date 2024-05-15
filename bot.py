@@ -1,4 +1,3 @@
-# Parsing pdfs
 from llmsherpa.readers import LayoutPDFReader
 
 import cohere
@@ -121,6 +120,3 @@ class Vectorstore:
             )
 
         return docs_retrieved
-
-
-

@@ -62,7 +62,7 @@ class Chatbot:
 if "messages" not in st.session_state.keys():  # Initialize the chat message history
     st.session_state.messages = [
         {"role": "assistant",
-            "content": "Ask me a question about Mercari's 2024 3rd quartly earnings report!"}
+            "content": "Ask me a question about Mercari's 12th Period 3rd Quarter(2024.01.01-2024.03.31)"}
     ]
 
 
